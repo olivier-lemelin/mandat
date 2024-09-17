@@ -1,0 +1,20 @@
+- ldapdomaindump - disponible sur Kali (https://github.com/dirkjanm/ldapdomaindump)
+- adidnsdump (https://github.com/dirkjanm/adidnsdump)
+- BloodHound.py (https://github.com/dirkjanm/BloodHound.py)
+- Certipy (https://github.com/ly4k/Certipy)
+- ManSpider.py (https://github.com/blacklanternsecurity/MANSPIDER)
+- PetitPotam.py (https://github.com/topotam/PetitPotam)
+- Evil-WinRM (https://github.com/Hackplayers/evil-winrm)
+
+- Outils SysInternals
+- ticketer.py (https://github.com/fortra/impacket/tree/master/impacket) (Cloned)
+- DonPAPI (https://github.com/login-securite/DonPAPI)
+- FireDrill (https://github.com/FourCoreLabs/firedrill/releases/download/v0.4/firedrill_0.4_windows_amd64.zip)
+- Fransom (compilé)
+- Sliver Server
+
+- ShellDrop (https://github.com/olivier-lemelin/ShellDrop/blob/master/gendrop.py - jinja2)
+- ShellDLL (https://github.com/olivier-lemelin/ShellDLL)
+- Nimcrypt2 (to compile)
+- EDRSandblast
+- EgressBuster
